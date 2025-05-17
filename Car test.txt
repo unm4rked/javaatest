@@ -1,0 +1,17 @@
+Develop a comment line that can parse and process both CAR (XML) and CSV files, then display their contents according to specific criteria. The system should: 
+	-Read and interpret data from XML (structured for car information) and CSV formats.	
+	-Apply conditional logic (filtering and sorting).
+
+1. I can filter the data by the following combination: 
+	- Brand, Price 
+	- Brand, Release date(yyyy,dd,mm)
+
+2. I can choose to sort the cars from ( latest to oldest year, highest Price to lowest)
+3. I can choose the following data output format 
+	- Table Format
+	- Xml Format
+	- JSON format
+Optional: 
+4. I can choose to sort all SUV in EUR, all Sedan in JPY, All Truck in USD
+
+ 

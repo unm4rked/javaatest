@@ -1,0 +1,16 @@
+<cars>
+  <car>
+    <brand>Toyota</brand>
+    <type>SUV</type>
+    <price>30000</price>
+    <releaseDate>2022,15,06</releaseDate>
+    <currency>EUR</currency>
+  </car>
+  <car>
+    <brand>Honda</brand>
+    <type>Sedan</type>
+    <price>25000</price>
+    <releaseDate>2021,10,05</releaseDate>
+    <currency>JPY</currency>
+  </car>
+</cars>
